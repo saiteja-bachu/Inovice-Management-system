@@ -78,9 +78,7 @@ The SQLite database (`invoices.db`) will be created automatically when the serve
 3. Use filters and sorting to manage invoices.
 4. Add new invoices or edit/delete existing ones.
 
-## Screenshots
 
-(Add screenshots here if available)
 
 ## Deployment
 
@@ -91,16 +89,4 @@ The SQLite database (`invoices.db`) will be created automatically when the serve
 4. Set start command: `npm start`
 5. Add environment variable: `NODE_ENV=production`
 
-### Frontend (Vercel/Netlify)
-1. Build the frontend: `npm run build`
-2. Deploy `dist` folder to Vercel or Netlify
-3. Update API URLs in components to point to deployed backend
 
-## Live Demo
-
-- **Frontend:** [Your Vercel/Netlify URL]
-- **Backend:** [Your Render URL]
-
-## License
-
-This project is for educational purposes.
